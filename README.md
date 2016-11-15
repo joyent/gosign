@@ -3,6 +3,8 @@ gosign
 
 Go HTTP signing library for Joyent's Triton and Manta.
 
+[![wercker status](https://app.wercker.com/status/85edeb60b4cce6c8f13b30d7165b257e/s/master "wercker status")](https://app.wercker.com/project/byKey/85edeb60b4cce6c8f13b30d7165b257e)
+
 ## Installation
 
 Use `go-get` to install gosign
